@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local backups
+*.bak
+*.bak_*
+*.tmp
+
+# Local notes (keep outside repo)
+NOTES.txt
+!NOTES.txt
