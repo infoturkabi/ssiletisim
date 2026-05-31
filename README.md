@@ -44,15 +44,15 @@ Built from `SS_ILETISIM_CLAUDE_WEBSITE_BRIEF.md`. Plain static HTML/CSS/JS — n
 
 Phone numbers used on the page:
 - **WhatsApp** (mobile): `0545 248 36 36` → encoded as `905452483636` in `wa.me/` links
-- **Store call** (landline): `0216 329 79 09`
+- **Store call** (landline): `0531 012 53 79`
 - **Address**: İstiklal Mah., Mithatpaşa Cd. No:4, 34762 Ümraniye / İstanbul
 
 To change them, open `index.html` and find-replace:
 
 ```
 905452483636      ← WhatsApp number (no spaces, no +)
-+902163297909     ← Call link
-0216 329 79 09    ← Displayed store number
++905310125379     ← Call link
+0531 012 53 79    ← Displayed store number
 0545 248 36 36    ← Displayed WhatsApp number
 ```
 
@@ -86,7 +86,7 @@ Per brief's "Important Build Notes":
 
 Before sending the URL to anyone, please confirm:
 - [ ] WhatsApp number `0545 248 36 36` is correct and monitored
-- [ ] Store landline `0216 329 79 09` is correct
+- [ ] Store landline `0531 012 53 79` is correct
 - [ ] Hours (currently shows Pazartesi–Cumartesi 09:30–21:30) — verify with owner
 - [ ] Address `Mithatpaşa Cd. No:4` is the right one
 - [ ] Brand list (Apple / Samsung / Xiaomi / Honor / Oppo / Vivo / Realme) matches stock
