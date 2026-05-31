@@ -1,0 +1,6 @@
+# robots.txt for ssiletisim.com
+User-agent: *
+Allow: /
+Disallow: /assets/images/!README_drop_images_here.txt
+
+Sitemap: https://ssiletisim.com/sitemap.xml
